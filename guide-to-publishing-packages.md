@@ -4,19 +4,19 @@ This article is a step-by-step guide to assembling and publishing a small, open-
 ## Table of Contents
 This guide covers a number of steps in the process of organizing and publishing a package and, where appropriate, provides templates and examples.
 
-* [Project Organization and Directory Tree Template](https://github.com/python-supply/guide-to-publishing-packages#project-organization-and-directory-tree-template)
-* [Package File Organization](https://github.com/python-supply/guide-to-publishing-packages#package-file-organization)
-* [Establishing and Checking Style Conventions](https://github.com/python-supply/guide-to-publishing-packages#establishing-and-checking-style-conventions)
-* [Defining Unit Tests and Measuring Test Coverage](https://github.com/python-supply/guide-to-publishing-packages#defining-unit-tests-and-measuring-test-coverage)
-    - [Using doctest](https://github.com/python-supply/guide-to-publishing-packages#using-doctest)
-    - [Using unittest](https://github.com/python-supply/guide-to-publishing-packages#using-unittest)
-    - [Using both doctest and unittest with nose](https://github.com/python-supply/guide-to-publishing-packages#using-both-doctest-and-unittest-with-nose)
-    - [Measuring coverage](https://github.com/python-supply/guide-to-publishing-packages#measuring-coverage)
-* [README Organization and Format](https://github.com/python-supply/guide-to-publishing-packages#readme-organization-and-format)
-* [Versioning and Contributions](https://github.com/python-supply/guide-to-publishing-packages#versioning-and-contributions)
-* [Continuous Integration and Coverage Reporting](https://github.com/python-supply/guide-to-publishing-packages#continuous-integration-and-coverage-reporting)
-* [Publishing to PyPI](https://github.com/python-supply/guide-to-publishing-packages#publishing-to-pypi)
-* [Further Reading](https://github.com/python-supply/guide-to-publishing-packages#further-reading)
+* [Project Organization and Directory Tree Template](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#project-organization-and-directory-tree-template)
+* [Package File Organization](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#package-file-organization)
+* [Establishing and Checking Style Conventions](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#establishing-and-checking-style-conventions)
+* [Defining Unit Tests and Measuring Test Coverage](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#defining-unit-tests-and-measuring-test-coverage)
+    - [Using doctest](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-doctest)
+    - [Using unittest](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-unittest)
+    - [Using both doctest and unittest with nose](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-both-doctest-and-unittest-with-nose)
+    - [Measuring coverage](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#measuring-coverage)
+* [README Organization and Format](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#readme-organization-and-format)
+* [Versioning and Contributions](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#versioning-and-contributions)
+* [Continuous Integration and Coverage Reporting](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#continuous-integration-and-coverage-reporting)
+* [Publishing to PyPI](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#publishing-to-pypi)
+* [Further Reading](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#further-reading)
 
 Note that depending on when you are reading this article, some of the steps, templates, and examples may be out of date.
 
