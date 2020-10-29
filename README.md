@@ -4,20 +4,20 @@ This article is a step-by-step guide to assembling and publishing a small, open-
 ## Table of Contents
 Each section covers a task or category of tasks related to organizing and publishing a package and, where appropriate, provides templates and examples.
 
-* [Project Organization and Directory Tree Template](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#project-organization-and-directory-tree-template)
-* [Package File Organization](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#package-file-organization)
-* [Establishing and Checking Style Conventions](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#establishing-and-checking-style-conventions)
-* [Defining Unit Tests and Measuring Test Coverage](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#defining-unit-tests-and-measuring-test-coverage)
-    - [Using doctest](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-doctest)
-    - [Using unittest](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-unittest)
-    - [Using both doctest and unittest with nose](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#using-both-doctest-and-unittest-with-nose)
-    - [Measuring coverage](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#measuring-coverage)
-* [Continuous Integration and Coverage Reporting](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#continuous-integration-and-coverage-reporting)
-* [README Organization and Format](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#readme-organization-and-format)
-    - [Badges](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#badges)
-    - [Versioning and Contributions](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#versioning-and-contributions)
-* [Publishing to PyPI](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#publishing-to-pypi)
-* [Further Reading](https://github.com/python-supply/guide-to-publishing-packages/blob/main/guide-to-publishing-packages.md#further-reading)
+* [Project Organization and Directory Tree Template](#project-organization-and-directory-tree-template)
+* [Package File Organization](#package-file-organization)
+* [Establishing and Checking Style Conventions](#establishing-and-checking-style-conventions)
+* [Defining Unit Tests and Measuring Test Coverage](#defining-unit-tests-and-measuring-test-coverage)
+    - [Using doctest](#using-doctest)
+    - [Using unittest](#using-unittest)
+    - [Using both doctest and unittest with nose](#using-both-doctest-and-unittest-with-nose)
+    - [Measuring coverage](#measuring-coverage)
+* [Continuous Integration and Coverage Reporting](#continuous-integration-and-coverage-reporting)
+* [README Organization and Format](#readme-organization-and-format)
+    - [Badges](#badges)
+    - [Versioning and Contributions](#versioning-and-contributions)
+* [Publishing to PyPI](#publishing-to-pypi)
+* [Further Reading](#further-reading)
 
 Note that depending on when you are reading this article, some of the steps, templates, and examples may be out of date.
 
